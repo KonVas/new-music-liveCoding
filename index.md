@@ -11,9 +11,9 @@ Below you can find a short version of the presentations or access the complete v
 ### Kerem Altaylar: "title"
 [Personal Webpage](...)
 
-[Complete presentation at this link](...)
+Add text of your presentation like this here. You can just add some basic text and provide the link to your full presentation in 'pdf' format also see below. Link to the file you have uploaded your presentation.
+[Complete presentation at this link](link/to/pdf/)
 
-Text will appear like this...
 
 Numbered lists and formated text as follow:
 
@@ -26,6 +26,7 @@ Numbered lists and formated text as follow:
 - Style
 ```
 Some code with syntax highlight (if required):
+
 `{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
 
 ### Selcuk Artut
