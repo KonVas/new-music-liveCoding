@@ -1,4 +1,4 @@
-## Algorithms and Live Coding
+## Algorithms and Live Coding Presentations
 
 [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
@@ -10,6 +10,7 @@ Below you can find the abstract of the the presentations prior of the event and/
 [Personal Webpage (if any)]()
 [Find the whole presentation at this link](...)
 Numbered lists
+```
 1. one
 2. two
 3. three
@@ -17,8 +18,10 @@ Numbered lists
 - Bullets
 - Style
 
-Some code with syntax highlight if is required:
+Some code with syntax highlight (if required):
 `{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
+```
+Text will appear like this...
 
 ### Selcuk Artut
 [Personal Webpage (if any)]()
