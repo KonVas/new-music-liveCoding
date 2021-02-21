@@ -1,12 +1,10 @@
-## Algorithms and Live Coding Presentations
-
-[New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
+## [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
 
 <img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" width="250" height="250">
 <img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" width="250" height="250">
 
-### Kerem Altaylar: "title"
+### Kerem Altaylar: "title of the presentation"
 [Personal Webpage](...)
 
 Add text of your presentation like this here. You can just add some basic text and provide the link to your full presentation in 'pdf' format also see below. Link to the file you have uploaded your presentation.
