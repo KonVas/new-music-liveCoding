@@ -1,13 +1,13 @@
 ## [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
 
-<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" width="250" height="250">
-<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" width="250" height="250">
+<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" alt="logo" width="250" height="400">
+<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" alt="logo_2" width="250" height="400">
 
 ### Kerem Altaylar: "title of the presentation"
 [Personal Webpage](...)
 
-Add text of your presentation like this here. You can just add some basic text and provide the link to your full presentation in 'pdf' format also see below. Link to the file you have uploaded your presentation.
+Add some basic text here and provide the link to your full presentation in 'pdf' below. Your file must be placed in the 'assets/pdf' folder in the root folder of this repository. Below you can find a working example.
 
 [Complete presentation at this link](https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/assets/pdf/YeniveEnYeniMuzikFestivali21.pdf)
 
