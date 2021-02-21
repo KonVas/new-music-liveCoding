@@ -4,7 +4,7 @@
 
 ![](https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg =250x250)
 
-Below you can find the abstract of the the presentations prior of the event and/or access them later from the attached links in each presentation.
+Below you can find a short version of the presentations or access the complete versions from each link below.
 
 ### Kerem Altaylar: "title"
 [Personal Webpage](...)
