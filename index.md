@@ -11,6 +11,8 @@ Below you can find a short version of the presentations or access the complete v
 
 [Complete presentation at this link](...)
 
+Text will appear like this...
+
 Numbered lists and formated text as follow:
 
 ```
@@ -20,11 +22,9 @@ Numbered lists and formated text as follow:
 
 - Bullets
 - Style
-
+```
 Some code with syntax highlight (if required):
 `{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
-```
-Text will appear like this...
 
 ### Selcuk Artut
 [Personal Webpage]()
