@@ -6,13 +6,11 @@
 <img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" width="250" height="250">
 <img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" width="250" height="250">
 
-Below you can find a short version of the presentations or access the complete versions from each link below.
-
 ### Kerem Altaylar: "title"
 [Personal Webpage](...)
 
 Add text of your presentation like this here. You can just add some basic text and provide the link to your full presentation in 'pdf' format also see below. Link to the file you have uploaded your presentation.
-[Complete presentation at this link](link/to/pdf/)
+[Complete presentation at this link](https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/assets/pdf/YeniveEnYeniMuzikFestivali21.pdf)
 
 
 Numbered lists and formated text as follow:
