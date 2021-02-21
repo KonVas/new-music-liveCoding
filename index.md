@@ -1,8 +1,8 @@
 ## [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
 
-<img src="img/YEYMF_2_Program-SM-08.jpg" width="2251" height="2251">
-<img src="img/YEYMF_2_Program-SM-03.jpg" width="2251" height="2251">
+<img src="img/YEYMF_2_Program-SM-08.jpg" width="500" height="500">
+<img src="img/YEYMF_2_Program-SM-03.jpg" width="500" height="500">
 
 ### Kerem Altaylar: "title of the presentation"
 [Personal Webpage](...)
