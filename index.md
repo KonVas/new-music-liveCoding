@@ -1,11 +1,8 @@
 ## [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
 
-<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" alt="logo" width="250" height="400">
-<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" alt="logo_2" width="250" height="400">
-
-[test image size](/img/YEYMF_2_Program-SM-08.jpg){:height="700px" width="400px"}
-[test image size](/img/YEYMF_2_Program-SM-03.jpg){:height="700px" width="400px"}
+<img src="img/YEYMF_2_Program-SM-08.jpg" width="250" height="400">
+<img src="img/YEYMF_2_Program-SM-03.jpg" width="250" height="400">
 
 ### Kerem Altaylar: "title of the presentation"
 [Personal Webpage](...)
