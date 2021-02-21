@@ -4,6 +4,7 @@
 
 
 <img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" width="250" height="250">
+<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" width="250" height="250">
 
 Below you can find a short version of the presentations or access the complete versions from each link below.
 
