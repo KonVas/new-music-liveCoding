@@ -1,35 +1,40 @@
-## Algorithms and Live Coding
+## Algorithms and Live Coding Presentations
 
 [New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
-Below you can find the abstract of the the presentations prior of the event and/or access them later from the attached links in each presentation.
+
+<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-08.jpg" width="250" height="250">
+<img src="https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/img/YEYMF_2_Program-SM-03.jpg" width="250" height="250">
+
+Below you can find a short version of the presentations or access the complete versions from each link below.
 
 ### Kerem Altaylar: "title"
-[Personal Webpage (if any)]()
-[Find the whole presentation at this link](...)
+[Personal Webpage](...)
 
-```markdown
-Syntax highlighted code block
+Add text of your presentation like this here. You can just add some basic text and provide the link to your full presentation in 'pdf' format also see below. Link to the file you have uploaded your presentation.
+[Complete presentation at this link](link/to/pdf/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Numbered lists and formated text as follow:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+1. one
+2. two
+3. three
+
+- Bullets
+- Style
+```
+Some code with syntax highlight (if required):
+
+`{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
 
 ### Selcuk Artut
-[Personal Webpage (if any)]()
+[Personal Webpage]()
+
 [Find the whole presentation at this link](...)
 
 ### Ugur Can Akkaya
-[Personal Webpage (if any)]()
-[Find the whole presentation at this link](...)
+[Personal Webpage]()
+
+[Complete presentation at this link](...)
