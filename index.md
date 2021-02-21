@@ -9,29 +9,23 @@ Below you can find the abstract of the the presentations prior of the event and/
 ### Kerem Altaylar: "title"
 [Personal Webpage (if any)]()
 [Find the whole presentation at this link](...)
+Numbered lists
+1. one
+2. two
+3. three
 
-```markdown
-Syntax highlighted code block
+- Bullets
+- Style
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Some code with syntax highlight if is required:
+`{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
 
 ### Selcuk Artut
 [Personal Webpage (if any)]()
+
 [Find the whole presentation at this link](...)
 
 ### Ugur Can Akkaya
 [Personal Webpage (if any)]()
+
 [Find the whole presentation at this link](...)
