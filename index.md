@@ -25,7 +25,7 @@ Numbered lists and formated text as follow:
 ```
 Some code with syntax highlight (if required):
 
-`{LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play`
+` {arg vol; var sig = LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol}.play `
 
 ### Selcuk Artut
 [Personal Webpage]()
