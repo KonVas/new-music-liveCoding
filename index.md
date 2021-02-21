@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Algorithms and Live Coding
 
-You can use the [editor on GitHub](https://github.com/KonVas/new-music-liveCoding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[New Music Festival: Algorithms and Live-Coding: Contemporary Practices](https://www.arter.org.tr/en/algorithms-and-live-coding)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you can find the abstract of the the presentations prior of the event and/or access them later from the attached links in each presentation.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Kerem Altaylar: "title"
+[Personal Webpage (if any)]()
+[Find the whole presentation at this link](...)
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Selcuk Artut
+[Personal Webpage (if any)]()
+[Find the whole presentation at this link](...)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KonVas/new-music-liveCoding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Ugur Can Akkaya
+[Personal Webpage (if any)]()
+[Find the whole presentation at this link](...)
