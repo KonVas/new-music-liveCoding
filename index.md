@@ -7,9 +7,12 @@
 Below you can find the abstract of the the presentations prior of the event and/or access them later from the attached links in each presentation.
 
 ### Kerem Altaylar: "title"
-[Personal Webpage (if any)]()
-[Find the whole presentation at this link](...)
-Numbered lists
+[Personal Webpage](...)
+
+[Complete presentation at this link](...)
+
+Numbered lists and formated text as follow:
+
 ```
 1. one
 2. two
@@ -24,11 +27,11 @@ Some code with syntax highlight (if required):
 Text will appear like this...
 
 ### Selcuk Artut
-[Personal Webpage (if any)]()
+[Personal Webpage]()
 
 [Find the whole presentation at this link](...)
 
 ### Ugur Can Akkaya
-[Personal Webpage (if any)]()
+[Personal Webpage]()
 
-[Find the whole presentation at this link](...)
+[Complete presentation at this link](...)
