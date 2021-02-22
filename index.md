@@ -58,8 +58,5 @@ Here are a few links to a selection of documentaries on Algorave and Live Coding
 
 ### Live Coding Resources
 More about the live coding practice including tools and other available resources as follows:
-
-```
-- [TOPLAP: the home of live coding](https://github.com/toplap/awesome-livecoding)
+- [TOPLAP: the home of live coding](https://toplap.org)
 - [Tools and other useful resources](https://github.com/toplap/awesome-livecoding)
-```
