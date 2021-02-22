@@ -4,7 +4,7 @@
 <img src="img/YEYMF_2_Program-SM-08.jpg" width="500" height="500">
 <img src="img/YEYMF_2_Program-SM-03.jpg" width="500" height="500">
 
-### Konstantinos Vasilakos
+### Prolegomena
 [Live Coding](https://toplap.org/about/), Just In Time programming Dynamic or interactive programming all refer to the act of improvising on stage with reprogrammable algorithms. Performers using programming languages to build or deconstruct source-code of running programs often exposing their decisions to the audience and building a sense of a virtuosic liveness similar to the open to the public _problem solving_ contests of the famous mathematicians such as Fior and Tartaglia or Fior and Ferrari. (Nilson, 2007).
 
 > "For two millenia, the Knights Spacebar have hidden a terrible secret; a meeting of Greek dialectics and Renaissance mathematical contest. Now, semenitician Dr. Prof. Robot Langdon will uncover a sequence of clues through the medium of live coding semicolons, conclusively endangering himself and all of humanity in a roller coaster venture of Hollycode thrillerdom. Your mind will be recoded forever, and your body will be ours. We will invade your every pore with an outporing of alchemical uberprogramming designed to unseal the great reverberant multiplex and snore the central delimiti of metaphasatory ambidextrosity. The gathered multitude, led by Dance Towel, slob, Andrew Sorenscript and Alberti de Bassi will sing from a time of operating systems past. The Illuminati are here and they know how you code... hexecute..." (Nilson, 2016)
