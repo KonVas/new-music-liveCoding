@@ -50,11 +50,11 @@ sig = sig * 0.5;
 [Personal Webpage](https://www.selcukartut.com)
 Social media: @selcukartut
 
-[Find the whole presentation at this link](...)
+[Find the whole presentation at this link](https://www.dropbox.com/s/5yyjt2sw6p9qj5i/SelcukArtut-NewMusicPresentation.pdf?dl=0)
 
 Here are a few links to a selection of documentaries on Algorave and Live Coding Culture
 
-[Algorave Generation | Resident Advisor](https://www.youtube.com/watch?v=S2EZqikCIfY&ab_channel=ResidentAdvisor)
+[Algorave Generation Resident Advisor](https://www.youtube.com/watch?v=S2EZqikCIfY&ab_channel=ResidentAdvisor)
 
 
 [Run the code: is algorave the future of dance music?](https://www.youtube.com/watch?v=h340aNznHnM&ab_channel=GuardianCulture)
