@@ -11,7 +11,7 @@
 
 Add some basic text here and provide the link to your full presentation in 'pdf' below. Your file must be placed in the 'assets/pdf' folder in the root folder of this repository. Below you can find a working example.
 
-[Complete presentation at this link](https://github.com/KonVas/new-music-liveCoding/blob/gh-pages/assets/pdf/YeniveEnYeniMuzikFestivali21.pdf)
+[Complete presentation at this link](assets/pdf/YeniveEnYeniMuzikFestivali21.pdf)
 
 Numbered lists and formated text as follow:
 
