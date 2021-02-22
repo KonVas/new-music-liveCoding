@@ -34,9 +34,26 @@ sig = sig * 0.5;
 ```
 
 ### Selcuk Artut
-[Personal Webpage]()
+[Personal Webpage](https://www.selcukartut.com)
+Social media: @selcukartut
 
 [Find the whole presentation at this link](...)
+
+Here are a few links to a selection of documentaries on Algorave and Live Coding Culture
+
+Algorave Generation | Resident Advisor
+[https://www.youtube.com/watch?v=S2EZqikCIfY&ab_channel=ResidentAdvisor]
+
+
+Run the code: is algorave the future of dance music?
+[https://www.youtube.com/watch?v=h340aNznHnM&ab_channel=GuardianCulture]
+
+
+A short clip about my Live Coding Project RAW (Turkish)
+[https://www.youtube.com/watch?v=Fc1UozFJd-E&t=109s&ab_channel=Digilogue]
+
+Coding the Party: Algorave (with English Subtitles)
+[https://www.youtube.com/watch?v=BcbsDcZ9k-A&ab_channel=selcukartut]
 
 ### Ugur Can Akkaya
 [Personal Webpage]()
