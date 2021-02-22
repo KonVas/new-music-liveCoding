@@ -41,8 +41,7 @@ Social media: @selcukartut
 
 Here are a few links to a selection of documentaries on Algorave and Live Coding Culture
 
-Algorave Generation | Resident Advisor
-[https://www.youtube.com/watch?v=S2EZqikCIfY&ab_channel=ResidentAdvisor]
+[Algorave Generation | Resident Advisor](https://www.youtube.com/watch?v=S2EZqikCIfY&ab_channel=ResidentAdvisor)
 
 
 Run the code: is algorave the future of dance music?
