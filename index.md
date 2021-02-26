@@ -49,7 +49,7 @@ Social media: @santilitre
 Few live coding ensembles/groups/bands to check out:
 - [Powerbooks Unplugged (Youtube Playlist) ](https://www.youtube.com/watch?v=OphvaU5oaJU&list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj)
 - [BEER (Birmingham Ensemble for Electroacoustic Research)](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx)
-- [Cybernatic Orchestra](https://global.mcmaster.ca/activity/cybernetic-orchestra/)
+- [Cybernetic Orchestra](https://global.mcmaster.ca/activity/cybernetic-orchestra/)
 - [Benoit and the Mandlebrots](https://www.the-mandelbrots.de/)
 - [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
 
