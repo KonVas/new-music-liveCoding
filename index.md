@@ -65,15 +65,25 @@ Here are a few links to a selection of documentaries on Algorave and Live Coding
 [Coding the Party: Algorave (with English Subtitles)](https://www.youtube.com/watch?v=BcbsDcZ9k-A&ab_channel=selcukartut)
 
 ### Ugur Can Akkaya
-[Personal Webpage]()
+[Personal Webpage](https://www.researchgate.net/profile/Ugur-Akkaya)
+Social media: @santilitre
 
-[Complete presentation at this link](...)
+[Complete presentation at this link](https://docs.google.com/presentation/d/10DulGGVKEMmsdiGbYEE6aY_sHEJLIoqdnXFUP0E7GPI/edit?usp=sharing)
+
+Few live coding ensembles/groups/bands to check out:
+- [Powerbooks Unplugged (Youtube Playlist) ](https://www.youtube.com/watch?v=OphvaU5oaJU&list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj)
+- [BEER (Birmingham Ensemble for Electroacoustic Research)](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx)
+- [Cybernatic Orchestra](https://global.mcmaster.ca/activity/cybernetic-orchestra/)
+- [Benoit and the Mandlebrots](https://www.the-mandelbrots.de/)
+
 
 ### Live Coding Resources
 More about the live coding practice including tools and other available resources as follows:
 - [TOPLAP: the home of live coding](https://toplap.org)
 - [Tools and other useful resources](https://github.com/toplap/awesome-livecoding)
 - [Algorave Community](https://algorave.com)
+
+
 
 ### References
 Nilson, C. Collected Rewritings: Live Coding Thoughts, 1968-2015. Burntwood: Verbose.
