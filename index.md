@@ -15,7 +15,7 @@ Therefore, this discussion we will attempt to shed some light on various buzzes 
 
 Konstantinos Vasilakos
 
-[Personal website](https://konvas.github.io/about/)
+[Personal website](https://konvas.netlify.app)
 
 ## Presenters
 
@@ -51,7 +51,7 @@ Few live coding ensembles/groups/bands to check out:
 - [BEER (Birmingham Ensemble for Electroacoustic Research)](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx)
 - [Cybernetic Orchestra](https://global.mcmaster.ca/activity/cybernetic-orchestra/)
 - [Benoit and the Mandlebrots](https://www.the-mandelbrots.de/)
-- [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
+- [Istanbul Coding Ensemble](https://konvas.netlify.app/ice/)
 
 
 ### Live Coding Resources
