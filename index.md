@@ -19,8 +19,10 @@ Konstantinos Vasilakos
 
 ## Presenters
 
-### Kerem Altaylar: "title of the presentation"
-[Personal Webpage](...)
+### Kerem Altaylar
+[Personal Webpage](https://www.youtube.com/channel/UCXKvZrTwHEwJ-42CKdsduKA)
+Social media: @keremaltaylar
+[Find the presentation at this link](https://docs.google.com/presentation/d/15NB3EVN-kDgC7qsPmtc3UGz_rDuJJKZx4XCNlEXcQ94/edit?usp=sharing)
 
 ### Selcuk Artut
 [Personal Webpage](https://www.selcukartut.com)
