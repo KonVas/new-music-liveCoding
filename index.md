@@ -22,30 +22,6 @@ Konstantinos Vasilakos
 ### Kerem Altaylar: "title of the presentation"
 [Personal Webpage](...)
 
-Add some basic text here and provide the link to your full presentation in 'pdf' below. Your file must be placed in the 'assets/pdf' folder in the root folder of this repository. Below you can find a working example.
-
-[Complete presentation at this link](assets/pdf/YeniveEnYeniMuzikFestivali21.pdf)
-
-Numbered lists and formated text as follow:
-
-```
-1. one
-2. two
-3. three
-
-- Bullets
-- Style
-```
-Some code with syntax highlight (if required):
-
-```javascript
-{
-arg vol = 0.99; 
-var sig = LFNoise1.ar(freq:199, phase:0.2pi, mul:0.99) ** vol;
-sig = sig * 0.5;
-}.play
-```
-
 ### Selcuk Artut
 [Personal Webpage](https://www.selcukartut.com)
 Social media: @selcukartut
@@ -75,6 +51,7 @@ Few live coding ensembles/groups/bands to check out:
 - [BEER (Birmingham Ensemble for Electroacoustic Research)](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx)
 - [Cybernatic Orchestra](https://global.mcmaster.ca/activity/cybernetic-orchestra/)
 - [Benoit and the Mandlebrots](https://www.the-mandelbrots.de/)
+- [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
 
 
 ### Live Coding Resources
